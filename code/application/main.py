@@ -13,8 +13,8 @@ def interface_function(q):
     return root
 
 
-def image_process_function(q1):
-    image_list = image_process.run(q1)
+def image_process_function(OPTIONS):
+    image_list = image_process.run(OPTIONS)
     q1.put(image_list)
 
     # for i in range(10):
@@ -26,9 +26,9 @@ def image_process_function(q1):
 if __name__ == "__main__":
     OPTIONS = 2
     q1 = queue.Queue()
-    t1 = threading.Thread(target=image_process_function, args=(q1, OPTIONS))
-    t1.start()
-    # app = interface_function(q1)
-    # app.mainloop()
+    # t1 = threading.Thread(target=image_process_function, args=(q1, OPTIONS))
+    # t1.start()
+    app = interface_function(q1)
+    app.mainloop()
     t1.join()
-    q1.join()
+    # q1.join()

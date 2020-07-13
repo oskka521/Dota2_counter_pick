@@ -72,7 +72,7 @@ def collect_img(opt):
     return store_list
 
 
-def run(q1, OPTIONS):
+def run(OPTIONS):
     print("image_process_function working")
     store_list = collect_img(OPTIONS)
     return store_list

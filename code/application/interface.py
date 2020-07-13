@@ -2,6 +2,7 @@ from tkinter import *
 import main
 import queue
 import time
+import image_process
 
 
 class Window(Frame):
@@ -23,14 +24,15 @@ class Window(Frame):
         self.collect_b.place(x=50, y=425)
 
     def execute_collect_b(self):
-        print("wow")
+        OPTIONS = 2
+        image_list = image_process.run(OPTIONS)
+        print(image_list)
 
 
 def run(root, q):
     Window(root)
-    for i in range(5):
-        time.sleep(2)
-        if not q.empty():
-            print(q.get(timeout=1.5))
-
+    #for i in range(5):
+    #    time.sleep(2)
+    #    if not q.empty():
+    #        print(q.get(timeout=1.5))
         print("empty")

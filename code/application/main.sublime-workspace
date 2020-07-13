@@ -1,0 +1,230 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"def",
+				"defs\tMethod"
+			],
+			[
+				"cou",
+				"country"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"men",
+				"View: Toggle Menu"
+			],
+			[
+				"",
+				"Arithmetic"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/OskarKarlsson/Desktop/ED-Kurser/TDDE01/TDDE01_GIT5/TDDE01Labs-master/TDDE01Labs-master/Lab 3/Assignment 1/Assignment1.R",
+		"/C/Users/OskarKarlsson/Desktop/ED-Kurser/TDDE01/TDDE01_GIT/TDDE01-master/lab3/1_Kernel_Methods.R",
+		"/C/Users/OskarKarlsson/Desktop/test.py",
+		"/C/Users/OskarKarlsson/Desktop/ED-Kurser/TDDE01/TDDE01_GIT2/TDDE01-master/TDDE01-master/lab3/assignment1.R",
+		"/C/Programmering/C#/working_cdio_2/cdio_please/cdio_please/Program.cs",
+		"/C/Users/OskarKarlsson/Desktop/send_CDIO/python/ssh/venv/code/run_ssh_main.py",
+		"/C/Programmering/C#/working_cdio_2/cdio_please/cdio_please/Compute.cs",
+		"/C/Users/OskarKarlsson/Desktop/working_cdio/cdio_please/cdio_please/communicate.cs",
+		"/C/Users/OskarKarlsson/Desktop/working_cdio/cdio_please/cdio_please/Compute.cs",
+		"/C/Users/OskarKarlsson/Desktop/ED-Kurser/TDDE01/TDDE01_GIT2/TDDE01-master/TDDE01-master/lab1/assignment2.R",
+		"/C/Programmering/Python/ssh/venv/code/run_ssh_main.py",
+		"/C/Users/OskarKarlsson/Desktop/ED-Kurser/TDDE01/TDDE01_GIT3/TDDE01Labs-master/TDDE01Labs-master/Lab 2/Assignment 2/Assignment2.R",
+		"/C/Users/OskarKarlsson/Desktop/ED-Kurser/TDDE01/TDDE01_GIT/TDDE01-master/lab2/lab2_assignment2.R",
+		"/C/Users/OskarKarlsson/Desktop/ED-Kurser/TDDE01/TDDE01_GIT/TDDE01-master/lab2/lab2_assignment4.R",
+		"/C/Users/OskarKarlsson/Desktop/ED-Kurser/TDDE01/labs/lab1/code/lab1/lab1_assignment1.R",
+		"/C/Users/OskarKarlsson/Desktop/dd.R",
+		"/C/Users/OskarKarlsson/Desktop/ED-Kurser/TDDE01/TDDE01_GIT2/TDDE01-master/TDDE01-master/lab1/assignment4.R",
+		"/C/Users/OskarKarlsson/Desktop/ED-Kurser/TDDE01/TDDE01_GIT/TDDE01-master/lab1/assignment1.R",
+		"/C/Users/OskarKarlsson/Desktop/ED-Kurser/TDDE01/TDDE01_GIT/TDDE01-master/lab1/machines.csv",
+		"/C/Users/OskarKarlsson/Desktop/ED-Kurser/TDDE01/labs/lab1/assignment3_help.R",
+		"/C/Users/OskarKarlsson/Desktop/ED-Kurser/TDDE01/labs/lab1/code/lab1/machines.csv",
+		"/C/Users/OskarKarlsson/Desktop/ED-Kurser/TDDE01/TDDE01_GIT2/TDDE01-master/TDDE01-master/lab1/assignment1.R",
+		"/C/Users/OskarKarlsson/Desktop/ED-Kurser/TDDE01/TDDE01_GIT/TDDE01-master/lab1/tecator.csv",
+		"/C/Users/OskarKarlsson/Desktop/ED-Kurser/TDDE01/labs/lab1/code/lab1/tecator.csv",
+		"/C/Users/OskarKarlsson/Desktop/ED-Kurser/TDDE01/TDDE01_GIT/TDDE01-master/lab1/assignment2.R",
+		"/C/Users/OskarKarlsson/Desktop/ED-Kurser/TDDE01/labs/lab1/code/lab1/spambase.csv",
+		"/C/Users/OskarKarlsson/Desktop/ED-Kurser/TDDE01/labs/lab1_assign1/lab1_assign1.R",
+		"/C/Users/OskarKarlsson/Desktop/ED-Kurser/TDDE01/labs/lab1_assign1/spambase.csv",
+		"/C/Users/OskarKarlsson/Desktop/printing.cpp",
+		"/C/Programmering/cpp/TND012_assisant/all_solutions/Solutions6/Solutions6/exerc1/movies.cpp",
+		"/C/Programmering/cpp/TND012_assisant/all_solutions/Solutions6/Solutions6/exerc1/movies.txt",
+		"/C/Programmering/cpp/TND012_assisant/all_solutions/Solutions6/Solutions6/exerc1/movies.h",
+		"/C/Programmering/cpp/TND012_assisant/all_solutions/Solutions6/Solutions6/exerc2/movies_database.cpp",
+		"/C/Programmering/cpp/TND012_assisant/all_solutions/Solutions3/Solutions3/lab3-uppgift4.cpp",
+		"/C/Programmering/cpp/TND012_assisant/all_solutions/Solutions4/lab4-uppgift1.cpp",
+		"/C/Programmering/cpp/TND012_assisant/all_solutions/Solutions5/Solutions5/uppgift.cpp",
+		"/C/Programmering/cpp/TND012_assisant/all_solutions/Solutions6/Solutions6/exerc1/movies_database.cpp",
+		"/C/Users/OskarKarlsson/Downloads/Code5/Code5_students/uppgift.cpp",
+		"/C/Users/OskarKarlsson/Downloads/Code10/Code10/employee_V0.cpp",
+		"/C/Program Files (x86)/Microsoft Visual Studio/2017/Community/VC/Tools/MSVC/14.16.27023/include/iomanip",
+		"/C/Program Files (x86)/Microsoft Visual Studio/2017/Community/VC/Tools/MSVC/14.16.27023/include/istream",
+		"/C/Program Files (x86)/Microsoft Visual Studio/2017/Community/VC/Tools/MSVC/14.16.27023/include/iostream",
+		"/C/Users/OskarKarlsson/Desktop/Code4/Code4/uppgift1.cpp",
+		"/C/Users/OskarKarlsson/Desktop/ArduinoCompurerCommunication-1/ArduinoCompurerCommunication.ino",
+		"/C/Users/OskarKarlsson/Desktop/ArduinoCompurerCommunication-1/ComputerToArduino/ComputerToArduino/Form1.cs",
+		"/C/Programmering/cpp/TND012_assisant/all_solutions/Solutions3/Solutions3/lab3-uppgift1.cpp",
+		"/C/Programmering/cpp/TND012_assisant/all_solutions/Solutions3/Solutions3/lab3-uppgift2.cpp",
+		"/C/Programmering/cpp/TND012_assisant/all_solutions/Solutions3/Solutions3/lab3-uppgift3.cpp",
+		"/C/Users/OskarKarlsson/Desktop/KURSPLAN_ED4_&_ED5.txt",
+		"/C/Users/OskarKarlsson/Desktop/mail.txt"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "main.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 230.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
